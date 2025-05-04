@@ -1,23 +1,4 @@
 
-🚀 Features
-1. 🔐 Login Automation
-✅ Login with valid credentials and verify access to the inventory page.
-
-❌ Attempt login with invalid user and 
-verify that an error message is displayed.
-
-2. 🛒 Cart Functionality
-➕ Add at least two products to the shopping cart.
-
-✔️ Verify the products were successfully added.
-
-➖ Remove one product and confirm that the cart updates correctly.
-
-3. 🎁 Optional Bonus Tests
-🔄 Filter or sort products by name or price.
-
-📊 Verify that product order changes as expected.
-
 🛠️ Technologies Used
 Language: Python 3.12.0
 
