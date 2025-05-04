@@ -27,8 +27,8 @@ pytest-html==4.1.1
 
 
 ▶️ Running the Tests
-   positive: All positive Selenium test
-   negative: All negative test
-   addproduct: All products added test
-   filter: search by filter test
-   removeproduct: Removed product
+   positive: All positive Selenium test-
+   negative: All negative test-
+   add: All products added test-
+   filter: search by filter test-
+   remove: Removed product test-
